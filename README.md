@@ -1,4 +1,4 @@
-![Hacktoberfest](https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg)
+![Hacktoberfest](https://mattermost.com/wp-content/uploads/2023/10/01_Hacktoberfest_Kickoff@2x-2048x1072.webp)
 
 # Beginner's Guide to Hacktoberfest
 
